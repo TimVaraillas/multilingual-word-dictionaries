@@ -1,0 +1,33 @@
+{
+  "name": "multilingual-word-dictionaries",
+  "version": "1.0.0",
+  "description": "Large multilingual word lists as json files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimVaraillas/multilingual-word-dictionaries.git"
+  },
+  "keywords": [
+    "multilingual",
+    "word",
+    "list",
+    "dictionary",
+    "french",
+    "english",
+    "danish",
+    "dutch",
+    "german",
+    "italian",
+    "norvegian",
+    "spanish"
+  ],
+  "author": "Timothée Varaillas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimVaraillas/multilingual-word-dictionaries/issues"
+  },
+  "homepage": "https://github.com/TimVaraillas/multilingual-word-dictionaries#readme"
+}
